@@ -41,6 +41,29 @@ Speed: Evaluation of real-time processing capabilities for prompt diagnosis.
 Usability: Assessment of the user interface for ease of interaction and interpretation.
 Security Compliance: Verification of data security measures to protect patient information.
 
+##References
+[1] Khandaker Mohammad Mohi Uddin, Nitish Biswas, Sarreha Tasmin Rikta, Samrat
+Kumar Dey, "Machine learning-based diagnosis of breast cancer utilizing feature optimization
+techniques," 2023.
+[2] Rahul Yadav, Pardeep Singh, Poonam Kashtriya, "Diagnosis of Breast Cancer Using
+Machine Learning Techniques: A Survey," 2023.
+[3] Mercy N. Asiedu, Erica Skerrett, Guillermo Sapiro, Nirmala Ramanujam, "Combining
+multiple contrasts for improving machine learning-based classification of cervical cancers with
+a low-cost point-of-care Pocket colposcope," 2023.
+[4] Ellery Wulczyn, David Steiner, Zhaoyang Xu, Apaar Sadhwani, Hongwu Wang,
+Isabelle Flament-Auvigne, Craig Mermel, Po-Hsuan Chen, Yun Liu, Martin Stumpe, "Deep
+learning-based survival prediction for multiple cancer types using histopathology images,"
+2023.
+[5] Amelie Echle, Niklas Rindtorff, Titus Brinker, Tom Luedde, Alexander Pearson, Jakob
+Nikolas Kather, Jakob Kather, "Deep learning in cancer pathology: A new generation of
+clinical biomarkers," 2023.
+[6] Shidan Wang, Donghan Yang, Ruichen Rong, Xiaowei Zhan, Junya Fujimoto, Hongyu
+Liu, John Minna, Ignacio Wistuba, Yang Xie, Guanghua Xiao, "Artificial Intelligence in Lung
+Cancer Pathology Image Analysis," 2023.
+[7] Sumaiya Dabeer, Mohammed Khan, Saiful Islam, "Cancer diagnosis in
+histopathological image: CNN based approach," 2019.
+[8] Jaimin Undavia, Dhatri Raval, "A Comprehensive assessment of Convolutional Neural
+Networks for skin and oral cancer detection using medical image," 2023.
 
 
 
